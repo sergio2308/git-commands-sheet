@@ -1,0 +1,7 @@
+git-init - create local repository (rep-ry)
+git-clone - copy remote rep-ry
+git status - check status of rep-ry
+git add - add files in local rep-ry to track
+git commit -m - fixation of changes
+git push - receive changes to remote rep-ry
+Also github user can fork remote rep-ry by using GUI on web-site
